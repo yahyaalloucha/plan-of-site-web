@@ -1,0 +1,75 @@
+
+
+div{
+width: 80%;
+margin-left: 10.5%;
+
+}
+
+.logo{
+ padding-top: 15px;
+ padding-right: 10px ;
+ padding-left: 10px;
+ padding-bottom: 15px;
+ background-color: gray;
+}
+
+.navigation{
+    padding-top: 10px;
+    padding-right: 10px ;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    margin-top: -10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+
+}
+h3{
+    padding-top: 38px;
+    padding-right: 10px ;
+    padding-left: 10px;
+    padding-bottom: 38px;
+    background-color: gray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+
+}
+h4{
+    padding-top: 200px;
+    padding-right:2px ;
+    padding-left: 2px;
+    padding-bottom: 200px;
+    background-color: gray;
+    margin-left: 149px;
+    margin-right: 900px;
+    text-align: center;
+
+
+}
+h5{
+    padding-top: 208px;
+    padding-right:2px ;
+    padding-left: 2px;
+    padding-bottom: 194.9px;
+    background-color: gray;
+    margin-left: 600px;
+    margin-right: 136px;
+    margin-top: -439.4px;
+    text-align: center;
+
+
+
+}
+footer{
+    padding-top: 15px;
+    padding-left: 38%;
+    margin-left: 149px;
+    margin-right: 136px;
+    padding-bottom: 15px;
+    background-color: gray
+    
+
+}
